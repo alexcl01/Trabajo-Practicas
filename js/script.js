@@ -1,14 +1,14 @@
 function generar(){
-	var nombre = ["Adrián", "Agustín", "Alberto", "Alejandro", "Aegon", "Alonso", "Alysanne", "Andrés Felipe", "Ángel", "Anthony", "Antonio", "Arya", "Bart", "Benigno", 
-	"Ben", "Benjamín", "Carlos", "Carlos Alberto", "Carlos Eduardo", "Carlos Roberto", "César", "Cristóbal", "Daemon", "Daniel", "David", "Diego", "Dylan", "Eduardo", 
-	"Emiliano", "Emmanuel", "Enrique", "Erik", "Ernesto", "Ethan", "Fabián", "Facundo", "Felipe", "Félix", "Fernando", "Francisco", "Francisco Javier", 
-	"Gabriel", "Gaspar", "Gustavo Adolfo", "Hugo", "Ian", "Iker", "Isaac", "Jacaerys", "Jacob", "Jaehaerys", "Javier", "Jayden", "Jeremy", "Jerónimo", "Jesús", "Jesús Antonio", 
-	"Joaquín", "Jorge", "Jorge Luis", "José", "José Antonio", "José Daniel", "José David", "José Francisco", "José Gregorio", "José Luis", "José Manuel", 
-	"José Pablo", "Josué", "Juan", "Juan Ángel", "Juan Carlos", "Juan David", "Juan Esteban", "Juan Ignacio", "Juan José", "Juan Manuel", "Juan Pablo", "Julio", 
-	"Julio Cesar", "Justin", "Kevin", "Lautaro", "Liam", "Lian", "Lorenzo", "Lucas", "Luis", "Luis Alberto", "Luis Emilio", "Luis Fernando", "Maegor", "Manuel", 
-	"Marco Antonio", "Margeary", "Mario", "Martín", "Mateo", "Matías", "Maykel", "Miguel", "Miguel Ángel", "Nelson", "Noah", "Oscar", "Pablo", "Pedro", "Rafael", "Ramón", 
-	"Raúl", "Rhaenyra", "Ricardo", "Rigoberto", "Roberto", "Rolando", "Samuel", "Sansa", "Santiago", "Santino", "Santos", "Sebastián", "Thiago", "Thiago Benjamín", "Tomás", 
-	"Valentino", "Vicente", "Víctor", "Víctor Hugo", "Visenya"];
+	var nombre = ["Adriana", "Agustín", "Alberto", "Alejandra", "Aegon", "Alonso", "Alysanne", "Andrés Felipe", "Ángela", "Anthony", "Antonio", "Arya", "Bart", "Benigno", 
+	"Ben", "Benjamín", "Carlos", "Carlos Alberto", "Carlos Eduardo", "Ceryse", "César", "Cristóbal", "Daemon", "Daniel", "David", "Diego", "Dylan", "Eduardo", 
+	"Emiliano", "Emmanuel", "Enrique", "Erik", "Ernesto", "Ethan", "Fabián", "Facundo", "Felipe", "Félix", "Felisa", "Francisco", "Francisco Javier", 
+	"Gabriel", "Gaspar", "Gustavo Adolfo", "Hugo", "Ian", "Iker", "Isaac", "Jacaerys", "Jacob", "Jaehaerys", "Javier", "Jayden", "Jeremy", "Jerónimo", "Jesús", 
+	"Joaquín", "Jorge", "Jorge Luis", "Josefa", "José Antonio", "José Daniel", "José David", "José Francisco", "José Gregorio", "José Luis", "José Manuel", 
+	"José Pablo", "Josué", "Juana", "Juan Ángel", "Juan Carlos", "Juan David", "Juan Esteban", "Juan Ignacio", "Juan José", "Juan Manuel", "Juan Pablo", "Julio", 
+	"Julio Cesar", "Justin", "Kevin", "Lautaro", "Liam", "Lian", "Lorenzo", "Lucas", "Luis", "Luis Alberto", "Luisa", "Luis Fernando", "Maegor", "Manuel", 
+	"Marco Antonio", "Margeary", "Mario", "Martín", "Mateo", "Matías", "Maykel", "Miguel", "Miguel Ángel", "Nelson", "Noah", "Oscar", "Pablo", "Pedro", "Rafaela", "Ramón", 
+	"Raquel", "Rhaenyra", "Ricardo", "Rigoberto", "Roberto", "Rolando", "Samuel", "Sansa", "Santiago", "Santino", "Santos", "Sebastián", "Thiago", "Tomás", 
+	"Valentina", "Vicente", "Victoria", "Víctor Hugo", "Visenya"];
 
 	var apellido = ["Garcia", "Gonzalez", "Rodriguez", "Fernandez", "Lopez", "Martinez", "Sanchez", "Perez", "Gomez", "Martin", "Jimenez", "Ruiz", "Hernandez", "Mormont", "Diaz", "Moreno", 
 	"Alvarez", "Muñoz", "Romero", "Bolton", "Alonso", "Gutierrez", "Navarro", "Torres", "Dominguez", "Vazquez", "Ramos", "Gil", "Tyrell", "Ramirez", "Serrano", "Blanco", "Suarez", "Molina", 
